@@ -1,0 +1,27 @@
+<resources>
+    <string name="appName">TimerLock</string>
+    <string name="laterLock">後鎖定螢幕</string>
+    <string name="second">秒</string>
+    <string name="minute">分</string>
+    <string name="reserveLock">預約螢幕鎖定</string>
+    <string name="unlock">解除螢幕鎖定</string>
+    <string name="saveSetting">儲存設定</string>
+    <string name="claimPermission">本程式螢幕鎖定功能必須開啟此項權限</string>
+    <string name="claimPermissionAgain">再次確認,本程式螢幕鎖定功能必須開啟此項權限</string>
+    <string name="claimEnterUnlockQuestion">請輸入解除螢幕鎖定提示</string>
+    <string name="claimEnterUnlockAnswer">請輸入解除螢幕鎖定答案</string>
+    <string name="showUnlockKeysLikeRightSide">解除螢幕鎖定按鍵如右</string>
+    <string name="noticeEnterUnlockKeys">請按任意組合的音量鍵(1~7個)並牢記順序\n(用於忘記解除螢幕鎖定答案)</string>
+    <string name="set">設定</string>
+    <string name="enable">啟用</string>
+    <string name="ok">好</string>
+    <string name="cancel">取消</string>
+    <string name="confirmSaveSetting">確定儲存設定?</string>
+    <string name="settingSaved">設定已儲存!</string>
+    <string name="lockingScreen">正在鎖定螢幕</string>
+    <string name="notYetEnterUnlockQuestion">(!)未輸入解除螢幕鎖定提示</string>
+    <string name="notYetEnterUnlockAnswer">(!)未輸入解除螢幕鎖定答案</string>
+    <string name="notYetEnterUnlockKeys">(!)未輸入解除螢幕鎖定按鍵組合</string>
+    <string name="keycodeValueUpSymbol">▲</string>
+    <string name="keycodeValueDownSymbol">▼</string>
+</resources>
